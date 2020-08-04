@@ -9,7 +9,7 @@
 1. リポジトリからクローン
 
    ```
-   
+   git clone https://gitlab.com/welcome-to-sodai/django.git django_app/djangodock
    ```
 
 2. djangodock階層で
@@ -72,4 +72,25 @@
    ```
 
 10. [ここに](http:localhost)アクセスし、うまくいっているか確認
+
+## 使い方
+
+- 始めるとき laradockの階層で
+   ```bash
+   docker-compose up -d mysql && docker-compose up -d workspace nginx
+   ```
+- 終わるとき
+   ```bash
+   docker-compose down
+   ```
+
+## まとめ
+
+- Djangoの環境構築ができた
+
+## Next Step
+
+- Djangoを勉強していくのみ!
+- Djangoやったことないのでよくわかりません
+- Sodai.でチュートリアル作ってくれる方募集中です...
 
