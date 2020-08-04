@@ -75,7 +75,7 @@
 
 ## 使い方
 
-- 始めるとき laradockの階層で
+- 始めるとき djangodockの階層で
    ```bash
    docker-compose up -d mysql && docker-compose up -d workspace nginx
    ```
