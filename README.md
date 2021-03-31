@@ -9,7 +9,7 @@
 1. リポジトリからクローン
 
    ```
-   git clone https://gitlab.com/welcome-to-sodai/django.git django_app/djangodock
+   git clone https://github.com/Sodai-circle/Django.git django_app/djangodock
    ```
 
 2. djangodock階層で
@@ -83,14 +83,4 @@
    ```bash
    docker-compose down
    ```
-
-## まとめ
-
-- Djangoの環境構築ができた
-
-## Next Step
-
-- Djangoを勉強していくのみ!
-- Djangoやったことないのでよくわかりません
-- Sodai.でチュートリアル作ってくれる方募集中です...
 
